@@ -1,1 +1,2 @@
-# EdxSwap-farm
+# Edx Token Contract
+
